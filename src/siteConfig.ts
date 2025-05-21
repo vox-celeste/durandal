@@ -16,7 +16,7 @@ export const SITE: SiteConfiguration = {
 export const NAV_LINKS: NavigationLinks = {
   blog: {
     path: "/blog",
-    label: "archives",
+    label: "posts",
   },
 };
 
