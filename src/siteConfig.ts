@@ -21,6 +21,11 @@ export const NAV_LINKS: NavigationLinks = {
 };
 
 export const SOCIAL_LINKS: SocialLinks = {
+   newsletter: {
+    label: "newsletter",
+    href: "https://buttondown.com/voxceleste/archive/",
+  },
+  
   bluesky: {
     label: "bluesky",
     href: "https://bsky.app/profile/durandal.blog",
