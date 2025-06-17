@@ -12,6 +12,6 @@ Many years ago, scientists and dreamers decided there was nothing for the pollut
 
 The music and visual cues are minimalistic and effective. The limited palette evokes the blaring primary colours of hazard symbols while steering in a more autumnal direction, in keeping with its themes of decay and return to the earth. 
 
-*Waste Eaters* scratched my itch for the melancholy and downbeat side of solarpunk. Maybe the real wish fulfillment fantasy was the idea that a radicals could see the day of their own obsolescence?. 
+*Waste Eaters* scratched my itch for the melancholy and downbeat side of solarpunk. Maybe the real wish fulfillment fantasy was the idea that radicals could see the day of their own obsolescence? 
 
 Pick up *[Waste Eaters](https://cmddx.itch.io/waste-eater)* at itch.io.
