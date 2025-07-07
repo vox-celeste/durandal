@@ -10,7 +10,7 @@ One of the major players in the landscape of English-language cnovel licensing i
 
 I have a real fascination with the material culture that arises where transnational media fandoms that emerged via bootleg translations "go legit"; it's a big part of what draws me to vintage anime. For this reason, as well as a desire to get an informed comparison point with Seven Seas' approach to branding and localization of their cnovels, I've been curious about Rosmei's titles. However, I don't personally know anyone with copies, so last fall I decided to bite the bullet and order some. 
 
-I’ve made two orders within the last year, from two different distributors and I’ll go into some detail about the order process as well as the books themselves, in hopes it'll be useful to anyone who may be on the fence about whether to place their own orders through various channels.
+I’ve made two orders within the last year, from two different distributors, and I’ll go into some detail about the order process as well as the books themselves, in hopes it'll be useful to anyone who may be on the fence about whether to place their own orders through various channels.
 
 
 ## north american retailers
@@ -69,7 +69,7 @@ The good news is that the above is the worst of it, as far as I can tell. My exp
 
 ### design
 
-Rosmei’s editions are kind of all over the place, which I don’t mean in as negative a sense as it probably sounds. If I saw them on a shelf in a bookstore, the press’ logo on the bottom of the spines is the only clue that these books are from the same publishing house. This stands in stark opposition to Seven Seas’ cnovel releases, which all follow a fairly rigid and design formula (though they’ve gotten somewhat more elegant in recent times—compare _Ballad of Sword and Wine_ and _Love Between Fairy and Devil_ on the left with the MXTX volumes on the right.)
+Rosmei’s editions are kind of all over the place, which I don’t mean in as negative a sense as it probably sounds. If I saw them on a shelf in a bookstore, the press’ logo on the bottom of the spines is the only clue that these books are from the same publishing house. This stands in stark opposition to Seven Seas’ cnovel releases, which all follow a fairly rigid design formula (though they’ve gotten somewhat more elegant in recent times—compare _Ballad of Sword and Wine_ and _Love Between Fairy and Devil_ on the left with the MXTX volumes on the right.)
 
 ![a bookshelf containing a number of Seven Seas danmei volumes. Spines of the newer titles are more simple and readable, with greater attention paid to contrast and visual balance](7s-bookshelf.jpg)
 
@@ -135,6 +135,6 @@ It’s the little things.
 
 I don't regret placing the orders; they satisfied my intellectual curiosity, and I enjoy getting to read licensed cnovels. 
 
-I'll be very curious to see where the English-language BL and CL cnovel cottage industry goes in the years to come. I really value the opportunity to see what publishers other than Seven Seas do with their titles, especially as there are lots of danmei and baihe works out there that don't really fit the Seven Seas mould but that deserve a wider audience (pouring one out for _The Imperial Uncle_, now out of print in English and god knows if that will change any time soon!) That said, there's a lot to critique about Rosmei's business model as well as the quality of their output. Many others have written on this, so I'll leave it at that for now.
+I'll be very curious to see where the English-language BL and GL cnovel cottage industry goes in the years to come. I really value the opportunity to see what publishers other than Seven Seas do with their titles, especially as there are lots of danmei and baihe works out there that don't really fit the Seven Seas mould but that deserve a wider audience (pouring one out for _The Imperial Uncle_, now out of print in English and god knows if that will change any time soon!) That said, there's a lot to critique about Rosmei's business model as well as the quality of their output. Many others have written on this, so I'll leave it at that for now.
 
 Recommendations of specific works will vary, and I hope to share more detailed reviews in future. 
