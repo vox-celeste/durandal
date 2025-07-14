@@ -18,6 +18,11 @@ export const NAV_LINKS: NavigationLinks = {
     path: "/blog",
     label: "posts",
   },
+  writing: {
+    path: "/writing",
+    label: "writing",
+  },
+
 };
 
 export const SOCIAL_LINKS: SocialLinks = {

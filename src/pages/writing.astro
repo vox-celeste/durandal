@@ -1,0 +1,29 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+
+import Introduction from "@/components/Introduction.astro";
+import Posts from "@/components/Posts.astro";
+import SeoPage from "@/components/SeoPage.astro";
+import SocialLinks from "@/components/SocialLinks.astro";
+---
+
+
+<BaseLayout>
+  <SeoPage slot="head" title="my writing" />
+  <div>
+    <h2 class="mb-3 text-4xl font-bold text-balance">my writing</h2>
+   <section class="prose">
+    <p>i have a <a href="https://buttondown.com/voxceleste">newsletter</a>, which is mainly about music and food.</p>
+   <h1 class="mt-8 mb-3 text-lg font-bold">zines in which my words appear:</h1>
+   <ul>
+    <li><a href="/zine-burial-at-sea/">burial at sea: trans gothic and <em>tian guan ci fu</em></a></li>
+    <li><a href="https://loglady.gumroad.com/l/t4tzine">t4t: trans fic by and for trans friends</a></li> 
+    <li><a href="https://longposter.neocities.org/yurizine.pdf">yuri zine</a></li>
+    <li><a href="https://longposter.neocities.org/yaoizine2.pdf">yaoi zine 2: the anal/ysis issue</a></li>
+  </ul>
+
+  <p>to chat about collaboration or guest writing, <a href="mailto:roland.lennox@pm.me">drop me a line</a>.</p>
+
+  <img src="/haman.gif" alt="gif of haman karn, a magenta-haired gundam character, first smiling cutely in a chibi form and then laughing with increasing derangement levels"></section>
+  </div>
+</BaseLayout>
