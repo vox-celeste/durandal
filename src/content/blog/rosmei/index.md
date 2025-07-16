@@ -29,11 +29,13 @@ I find it extremely annoying when companies do this. I don’t want to waste my 
 
 Yiggybean currently offers free shipping for orders over $100 USD within the continental US. I think it was a $10 USD flat fee at the time of my order, for a package of about that value.
 
-I placed my order on September 30, 2024, containing the first volumes of _How to Survive as a Villain_, _Kaleidoscope of Death_, _Coins of Destiny_, and _Nanchan_. Despite a 6-8 week ballpark for orders to arrive from Rosmei to Yiggybean’s warehouse, my order wasn’t shipped out from Seattle until January 22. As far as I can tell, this was neither the fault of Rosmei nor Yiggybean; a bulk order containing volumes of _Nanchan_ got stuck in customs purgatory and needed to be sent back and reissued from Singapore. These are the kinds of risks to be aware of when buying this kind of goods. Part of why I ordered via a retailer rather than a group order through [Northwest Flower GO](https://sites.google.com/view/northwestflowergo) was the (possibly naive) belief that this kind of thing is less common the more “legit” the distributor; I’m now curious whether that assumption is based in reality. Much to consider.
+I placed my order on September 30, 2024, containing the first volumes of _How to Survive as a Villain_, _Kaleidoscope of Death_, _Coins of Destiny_, and _Nanchan_. Despite a 6-8 week ballpark for orders to arrive from Rosmei to Yiggybean’s warehouse, my order wasn’t shipped out from Seattle until January 22. As far as I can tell, this was neither the fault of Rosmei nor Yiggybean; a bulk order containing volumes of _Nanchan_ got stuck in customs purgatory and needed to be sent back and reissued from Singapore. These are the kinds of risks to be aware of when buying this kind of goods. Part of why I ordered via a retailer rather than a group order through [Northwest Flower GO](https://sites.google.com/view/northwestflowergo) was the (possibly naive) belief that this kind of thing is less common the more “legit” the distributor; I was probably right to assume in the first place that even if a shipment did get impounded, it'd have a better chance of getting recovered if I went through an established retailer. I did get the book in the end, after all.
 
 Yiggybean made a post on their [blog](https://yiggybean.com/blogs/default-blog) about the situation and mentioned it on the _Nanchan_ product page before I placed my order. However, I found it frustrating that, as the months went on, the occasional status updates they logged in the blog post were never sent out by email to the people waiting on these orders. The only way I was able to keep up with what was going on was by refreshing the blog post every so often. 
 
 Yiggybean made their last update about the _Nanchan_ delay on December 16, announcing that the shipments had finally arrived and the first batch would be shipped out ASAP. Based on when I placed my order, my books were part of another, later batch; I reached out to Yiggybean on Jan 16 inquiring about a fulfillment ETA, and got a same-day reply letting me know the order would be shipped and packed over the next few days, which indeed it was. Domestic delivery from Yiggybean’s warehouse to my package pickup service was quick.
+
+Communication levels around the delay weren't a huge issue; I would definitely order from Yiggybean again if there weren't a domestic alternative (or the border considerations.) My goal here is to set expectations for folks such as myself who don't have a lot of experience with overseas orders.
 
 In a bittersweet turn of events, the delay meant that I was able to have the copies of _Peach Blossom Debt_ and _The Imperial Uncle_ that I ordered from Peach Flower House upon the announcement of that press folding sent to the U.S. package service for pickup at the same time. 
 
@@ -102,6 +104,8 @@ It’s kind of funny that Rosmei’s ultimate Achilles heel appears to be “wri
 Like. Okay??????
 
 Granted, I’m zero percent familiar with the publishing landscape in Singapore and it’s possible that some of these choices are less strange in context than they feel to me. I’d be interested to learn more if this is the case.
+
+EDIT: after some discussion on the cnovels Dreamwidth comm, it sounds like publishing conventions across East Asia are variable in this regard. In any case, regardless of standards and conventions within Rosmei's regional publishing sphere, the international English readership is a pillar of their business model and it behooves them to do some basic market research about what said audience will expect.
 
 ### translations
 
