@@ -6,7 +6,7 @@ image: ./hammajang.png
 imageAlt: crop of the cover of Hammajang Luck. A non-binary Hawaiian person with short hair sits on a rooftop against a brightly coloured futuristic city skyline. the book's tagline reads, "How come one last job never actually means that?"
 ---
 
-Edie Morikawa is an thief doing time in a space prison. Climate collapse and rising sea levels have forced many Hawaiians into space, where they eke out an existence on the margins of society on the Kepler station. Edie’s last job went belly-up, and they were sold out by their partner-in-crime and childhood sweetheart, Angel, earning Edie an eight-year prison sentence. 
+Edie Morikawa is a thief doing time in a space prison. Climate collapse and rising sea levels have forced many Hawaiians into space, where they eke out an existence on the margins of society on the Kepler station. Edie’s last job went belly-up, and they were sold out by their partner-in-crime and childhood sweetheart, Angel, earning Edie an eight-year prison sentence. 
 
 To Edie’s surprise, they’re let out early. Angel is behind this, too; she’s making Edie an offer they can’t refuse. Angel’s spent the last few years ingratiating herself to a Elon Musk-esq tech CEO, and she wants Edie to join her crack team for their biggest job yet: scoring on Angel’s boss. Edie’s desire to prove to their family that they’re done being a crook is overcome by their desire to provide for them materially, and thus they tumble back into Angel’s web.
 
